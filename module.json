@@ -1,0 +1,24 @@
+{
+  "name": "5e-compendiums",
+  "title": "5e Compendiums",
+  "description": "A collection of compendium packs for various official, third-party and homebrew content.",
+  "author": "Leo Baldock",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.5.0",
+  "packs": [
+    {
+      "name": "items",
+      "label": "The Hoard",
+      "path": "packs/items.db",
+      "entity": "Item",
+      "module": "5e-compendiums"
+    },
+    {
+      "name": "monsters",
+      "label": "Friends and Foes",
+      "path": "packs/monsters.db",
+      "entity": "Actor",
+      "module": "5e-compendium"
+    }
+  ]
+}
