@@ -26,6 +26,13 @@
       "path": "packs/spells.db",
       "entity": "Item",
       "module": "5e-compendium"
+    },
+    {
+      "name": "classes",
+      "label": "Crazy Classes",
+      "path": "packs/classes.db",
+      "entity": "Item",
+      "module": "5e-compendium"
     }
   ]
 }
