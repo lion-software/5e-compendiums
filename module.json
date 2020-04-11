@@ -19,6 +19,13 @@
       "path": "packs/monsters.db",
       "entity": "Actor",
       "module": "5e-compendium"
+    },
+    {
+      "name": "spells",
+      "label": "Spells 'n' Shite",
+      "path": "packs/spells.db",
+      "entity": "Item",
+      "module": "5e-compendium"
     }
   ]
 }
