@@ -8,29 +8,43 @@
   "packs": [
     {
       "name": "items",
-      "label": "The Hoard",
+      "label": "5e Items",
       "path": "packs/items.db",
       "entity": "Item",
       "module": "5e-compendiums"
     },
     {
       "name": "monsters",
-      "label": "Friends and Foes",
+      "label": "5e Monsters",
       "path": "packs/monsters.db",
       "entity": "Actor",
       "module": "5e-compendium"
     },
     {
       "name": "spells",
-      "label": "Spells 'n' Shite",
+      "label": "5e Spells",
       "path": "packs/spells.db",
       "entity": "Item",
       "module": "5e-compendium"
     },
     {
+      "name": "class-features",
+      "label": "5e Class Features",
+      "path": "packs/features.db",
+      "entity": "Item",
+      "module": "5e-compendium"
+    },
+    {
       "name": "classes",
-      "label": "Crazy Classes",
+      "label": "5e Classes",
       "path": "packs/classes.db",
+      "entity": "Item",
+      "module": "5e-compendium"
+    },
+    {
+      "name": "trade-goods",
+      "label": "5e Trade Goods",
+      "path": "packs/goods.db",
       "entity": "Item",
       "module": "5e-compendium"
     }
